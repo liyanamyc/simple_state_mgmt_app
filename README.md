@@ -1,6 +1,6 @@
 # simple_state_mgmt_app
 
-A new Flutter project.
+A simple Flutter State Management Application using Provider package. Other alternatives should be such as MobX, Redux, Riverpod.
 
 ## Getting Started
 
